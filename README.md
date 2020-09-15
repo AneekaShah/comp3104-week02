@@ -1,1 +1,3 @@
 # comp3104-week02
+
+Hello everyone.....
